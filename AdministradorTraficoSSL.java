@@ -1,8 +1,3 @@
-/*
-  AdministradorTrafico.java
-  Basado en Proxy.java - Carlos Pineda G.
-  Adaptado para Tarea 5 - Boleta: 2023630571
-*/
 import java.io.InputStream;
 import java.io.OutputStream;
 import java.io.IOException;
