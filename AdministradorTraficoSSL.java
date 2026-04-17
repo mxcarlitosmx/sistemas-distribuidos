@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.net.Socket;
 import java.net.ServerSocket;
 
-class AdministradorTrafico {
+class AdministradorTraficoSSL {
     static String host_principal;
     static int puerto_principal;
     static String host_replica;
